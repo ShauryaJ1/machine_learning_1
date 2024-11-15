@@ -17,7 +17,7 @@ for i in range(0,8):
     for row in data:
             sub_table[int(row[i])][int(row[-1])] += 1
     table[i] = sub_table
-accuracy_table = {k:0 for k in range(0,8)}
+accuracy_table = {k:0 for k in range(0,num_classes)}
 for k in table:
     correct = 0
     for row in data:
