@@ -1,6 +1,5 @@
 import csv
 import sys; args = sys.argv[1:]
-
 def get_prob(data, attribute, value, class_value):
     count = 0
     class_count = 0
@@ -11,7 +10,6 @@ def get_prob(data, attribute, value, class_value):
             class_count += 1
     return count/class_count
 def get_prob_from_table(attribute_table,class_table, row,class_value):
-    # print(class_table)
     prob = class_table[class_value]
     for i, value in enumerate(row[:-1]):
         prob *= attribute_table[str(i)][value]
@@ -31,11 +29,8 @@ for attribute in range(0,len(data[0])-1):
         for value in attribute_values:
             sub_table[value] = get_prob(data, attribute, value, class_value)
         probability_table[class_value][str(attribute)] = sub_table
-# print(probability_table['0'])
-# print(probability_table.keys())
+print(probability_table)
 class_table = {k:sum([1 for row in data if row[-1]==k])/len(data) for k in num_classes}
-
-# print(class_probabilities)
 correct=0
 for row in test_data:
     class_probabilities = dict()

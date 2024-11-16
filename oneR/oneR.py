@@ -23,8 +23,6 @@ for k in table:
     for row in data:
         if int(row[-1]) == max(table[k][int(row[k])], key=table[k][int(row[k])].get):
             correct += 1
-        
-
     accuracy_table[k] = correct/len(data)
 print(accuracy_table)
 best_attribute = max(accuracy_table, key=accuracy_table.get)
@@ -37,5 +35,4 @@ correct = 0
 for row in test_data:
     if int(row[-1]) == rule_table[int(row[best_attribute])]:
         correct += 1
-        # print(f"Incorrectly classified {row}")
 print(f"Accuracy: {correct/len(test_data)}")
