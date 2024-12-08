@@ -29,13 +29,29 @@ for attribute in range(0,len(data[0])-1):
         for value in attribute_values:
             sub_table[value] = get_prob(data, attribute, value, class_value)
         probability_table[class_value][str(attribute)] = sub_table
-print(probability_table)
+print(f"probability table: {probability_table}")
 class_table = {k:sum([1 for row in data if row[-1]==k])/len(data) for k in num_classes}
 correct=0
+true_positives = 0
+false_positives = 0
+false_negatives = 0
+true_negatives = 0
 for row in test_data:
     class_probabilities = dict()
     for class_value in num_classes:
         class_probabilities[class_value] = get_prob_from_table(probability_table[class_value], class_table, row, class_value)
     if row[-1] == max(class_probabilities, key=class_probabilities.get):
         correct += 1
+        if row[-1] == '1':
+            true_positives += 1
+        else:
+            true_negatives += 1
+    else:
+        if row[-1] == '1':
+            false_negatives += 1
+        else:
+            false_positives += 1
 print(correct/len(test_data))
+
+print(f"TP: {true_positives}\tFN: {false_negatives}")
+print(f"FP: {false_positives}\tTN: {true_negatives}")
