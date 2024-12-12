@@ -1,0 +1,893 @@
+{
+   "Attribute 1": {
+      "Value 2": {
+         "Attribute 2": {
+            "Value 2": {
+               "Attribute 3": {
+                  "Value 1": "1",
+                  "Value 0": {
+                     "Attribute 4": {
+                        "Value 2": "0",
+                        "Value 1": {
+                           "Attribute 7": {
+                              "Value 2": {
+                                 "Attribute 6": {
+                                    "Value 0": {
+                                       "Attribute 5": {
+                                          "Value 0": {
+                                             "Attribute 0": {
+                                                "Value 1": "1"
+                                             }
+                                          }
+                                       }
+                                    }
+                                 }
+                              },
+                              "Value 1": "0"
+                           }
+                        },
+                        "Value 0": "1"
+                     }
+                  }
+               }
+            },
+            "Value 1": {
+               "Attribute 4": {
+                  "Value 2": "1",
+                  "Value 1": {
+                     "Attribute 0": {
+                        "Value 1": {
+                           "Attribute 6": {
+                              "Value 0": "1",
+                              "Value 3": "0"
+                           }
+                        },
+                        "Value 0": "1",
+                        "Value 3": "0"
+                     }
+                  }
+               }
+            },
+            "Value 0": {
+               "Attribute 4": {
+                  "Value 2": {
+                     "Attribute 3": {
+                        "Value 1": {
+                           "Attribute 0": {
+                              "Value 2": "1",
+                              "Value 1": {
+                                 "Attribute 7": {
+                                    "Value 2": {
+                                       "Attribute 5": {
+                                          "Value 2": {
+                                             "Attribute 6": {
+                                                "Value 0": "1",
+                                                "Value 3": "1"
+                                             }
+                                          },
+                                          "Value 0": "0"
+                                       }
+                                    },
+                                    "Value 1": "0"
+                                 }
+                              },
+                              "Value 3": {
+                                 "Attribute 6": {
+                                    "Value 0": "1",
+                                    "Value 3": "0"
+                                 }
+                              }
+                           }
+                        },
+                        "Value 0": "0"
+                     }
+                  },
+                  "Value 1": {
+                     "Attribute 7": {
+                        "Value 2": {
+                           "Attribute 0": {
+                              "Value 2": "1",
+                              "Value 1": {
+                                 "Attribute 6": {
+                                    "Value 2": "1",
+                                    "Value 1": "1",
+                                    "Value 0": {
+                                       "Attribute 5": {
+                                          "Value 2": {
+                                             "Attribute 3": {
+                                                "Value 1": "1",
+                                                "Value 0": "1"
+                                             }
+                                          },
+                                          "Value 0": {
+                                             "Attribute 3": {
+                                                "Value 1": "1",
+                                                "Value 0": "1"
+                                             }
+                                          }
+                                       }
+                                    },
+                                    "Value 3": "1"
+                                 }
+                              },
+                              "Value 3": {
+                                 "Attribute 5": {
+                                    "Value 2": {
+                                       "Attribute 6": {
+                                          "Value 0": {
+                                             "Attribute 3": {
+                                                "Value 1": "1",
+                                                "Value 0": "1"
+                                             }
+                                          },
+                                          "Value 3": "0"
+                                       }
+                                    },
+                                    "Value 0": "1"
+                                 }
+                              }
+                           }
+                        },
+                        "Value 1": {
+                           "Attribute 0": {
+                              "Value 2": "0",
+                              "Value 1": "1",
+                              "Value 3": {
+                                 "Attribute 3": {
+                                    "Value 1": "1",
+                                    "Value 0": {
+                                       "Attribute 6": {
+                                          "Value 0": {
+                                             "Attribute 5": {
+                                                "Value 0": "1"
+                                             }
+                                          }
+                                       }
+                                    }
+                                 }
+                              }
+                           }
+                        },
+                        "Value 0": "0",
+                        "Value 3": {
+                           "Attribute 3": {
+                              "Value 1": {
+                                 "Attribute 0": {
+                                    "Value 2": {
+                                       "Attribute 5": {
+                                          "Value 2": "1",
+                                          "Value 0": {
+                                             "Attribute 6": {
+                                                "Value 2": "1",
+                                                "Value 0": "0"
+                                             }
+                                          }
+                                       }
+                                    },
+                                    "Value 1": "0",
+                                    "Value 0": {
+                                       "Attribute 6": {
+                                          "Value 0": "1",
+                                          "Value 3": {
+                                             "Attribute 5": {
+                                                "Value 2": "1"
+                                             }
+                                          }
+                                       }
+                                    },
+                                    "Value 3": {
+                                       "Attribute 6": {
+                                          "Value 0": {
+                                             "Attribute 5": {
+                                                "Value 2": "0",
+                                                "Value 0": "1"
+                                             }
+                                          },
+                                          "Value 3": "0"
+                                       }
+                                    }
+                                 }
+                              },
+                              "Value 0": {
+                                 "Attribute 6": {
+                                    "Value 0": {
+                                       "Attribute 0": {
+                                          "Value 2": {
+                                             "Attribute 5": {
+                                                "Value 2": "0",
+                                                "Value 0": "1"
+                                             }
+                                          },
+                                          "Value 1": {
+                                             "Attribute 5": {
+                                                "Value 2": "1",
+                                                "Value 0": "0"
+                                             }
+                                          },
+                                          "Value 3": {
+                                             "Attribute 5": {
+                                                "Value 2": "1",
+                                                "Value 0": "1"
+                                             }
+                                          }
+                                       }
+                                    },
+                                    "Value 3": "1"
+                                 }
+                              }
+                           }
+                        }
+                     }
+                  },
+                  "Value 0": "0",
+                  "Value 3": {
+                     "Attribute 7": {
+                        "Value 2": {
+                           "Attribute 6": {
+                              "Value 1": "1",
+                              "Value 0": {
+                                 "Attribute 0": {
+                                    "Value 1": {
+                                       "Attribute 5": {
+                                          "Value 2": {
+                                             "Attribute 3": {
+                                                "Value 1": "1"
+                                             }
+                                          }
+                                       }
+                                    },
+                                    "Value 3": "0"
+                                 }
+                              },
+                              "Value 3": {
+                                 "Attribute 5": {
+                                    "Value 2": {
+                                       "Attribute 3": {
+                                          "Value 1": {
+                                             "Attribute 0": {
+                                                "Value 1": "1"
+                                             }
+                                          }
+                                       }
+                                    }
+                                 }
+                              }
+                           }
+                        },
+                        "Value 1": "1",
+                        "Value 3": "1"
+                     }
+                  }
+               }
+            },
+            "Value 3": "1"
+         }
+      },
+      "Value 1": {
+         "Attribute 7": {
+            "Value 2": {
+               "Attribute 2": {
+                  "Value 2": {
+                     "Attribute 0": {
+                        "Value 1": {
+                           "Attribute 3": {
+                              "Value 1": {
+                                 "Attribute 4": {
+                                    "Value 2": "1",
+                                    "Value 1": {
+                                       "Attribute 6": {
+                                          "Value 0": {
+                                             "Attribute 5": {
+                                                "Value 2": "0",
+                                                "Value 0": "0"
+                                             }
+                                          },
+                                          "Value 3": {
+                                             "Attribute 5": {
+                                                "Value 2": "0",
+                                                "Value 0": "0"
+                                             }
+                                          }
+                                       }
+                                    }
+                                 }
+                              },
+                              "Value 0": {
+                                 "Attribute 5": {
+                                    "Value 2": {
+                                       "Attribute 4": {
+                                          "Value 2": "0",
+                                          "Value 1": {
+                                             "Attribute 6": {
+                                                "Value 0": "0"
+                                             }
+                                          }
+                                       }
+                                    },
+                                    "Value 0": {
+                                       "Attribute 4": {
+                                          "Value 2": "0",
+                                          "Value 1": {
+                                             "Attribute 6": {
+                                                "Value 0": "0",
+                                                "Value 3": "0"
+                                             }
+                                          }
+                                       }
+                                    }
+                                 }
+                              }
+                           }
+                        },
+                        "Value 3": {
+                           "Attribute 6": {
+                              "Value 2": "1",
+                              "Value 0": {
+                                 "Attribute 3": {
+                                    "Value 1": "0",
+                                    "Value 0": "1"
+                                 }
+                              },
+                              "Value 3": "0"
+                           }
+                        }
+                     }
+                  },
+                  "Value 1": {
+                     "Attribute 3": {
+                        "Value 1": {
+                           "Attribute 4": {
+                              "Value 2": "0",
+                              "Value 1": {
+                                 "Attribute 6": {
+                                    "Value 2": "1",
+                                    "Value 0": {
+                                       "Attribute 5": {
+                                          "Value 2": {
+                                             "Attribute 0": {
+                                                "Value 1": "1"
+                                             }
+                                          },
+                                          "Value 3": "1"
+                                       }
+                                    },
+                                    "Value 3": "1"
+                                 }
+                              }
+                           }
+                        },
+                        "Value 0": {
+                           "Attribute 5": {
+                              "Value 2": "0",
+                              "Value 0": "0",
+                              "Value 3": "1"
+                           }
+                        }
+                     }
+                  },
+                  "Value 0": {
+                     "Attribute 6": {
+                        "Value 2": {
+                           "Attribute 5": {
+                              "Value 1": "0",
+                              "Value 0": "1"
+                           }
+                        },
+                        "Value 0": {
+                           "Attribute 0": {
+                              "Value 2": {
+                                 "Attribute 5": {
+                                    "Value 2": "0",
+                                    "Value 0": {
+                                       "Attribute 3": {
+                                          "Value 1": "1",
+                                          "Value 0": "0"
+                                       }
+                                    }
+                                 }
+                              },
+                              "Value 1": {
+                                 "Attribute 3": {
+                                    "Value 1": {
+                                       "Attribute 4": {
+                                          "Value 2": {
+                                             "Attribute 5": {
+                                                "Value 2": "0",
+                                                "Value 0": "0"
+                                             }
+                                          },
+                                          "Value 1": {
+                                             "Attribute 5": {
+                                                "Value 2": "0",
+                                                "Value 0": "0"
+                                             }
+                                          },
+                                          "Value 3": "0"
+                                       }
+                                    },
+                                    "Value 0": {
+                                       "Attribute 4": {
+                                          "Value 2": "0",
+                                          "Value 1": {
+                                             "Attribute 5": {
+                                                "Value 2": "0",
+                                                "Value 1": "0",
+                                                "Value 0": "0"
+                                             }
+                                          }
+                                       }
+                                    },
+                                    "Value 3": "0"
+                                 }
+                              },
+                              "Value 3": {
+                                 "Attribute 4": {
+                                    "Value 2": "0",
+                                    "Value 1": {
+                                       "Attribute 5": {
+                                          "Value 2": {
+                                             "Attribute 3": {
+                                                "Value 1": "0",
+                                                "Value 0": "1"
+                                             }
+                                          },
+                                          "Value 0": {
+                                             "Attribute 3": {
+                                                "Value 1": "1",
+                                                "Value 0": "0"
+                                             }
+                                          }
+                                       }
+                                    }
+                                 }
+                              }
+                           }
+                        },
+                        "Value 3": {
+                           "Attribute 3": {
+                              "Value 1": {
+                                 "Attribute 0": {
+                                    "Value 1": {
+                                       "Attribute 5": {
+                                          "Value 2": {
+                                             "Attribute 4": {
+                                                "Value 2": "1",
+                                                "Value 1": "1"
+                                             }
+                                          },
+                                          "Value 0": {
+                                             "Attribute 4": {
+                                                "Value 2": "0",
+                                                "Value 1": "0"
+                                             }
+                                          }
+                                       }
+                                    },
+                                    "Value 3": "0"
+                                 }
+                              },
+                              "Value 0": {
+                                 "Attribute 0": {
+                                    "Value 1": {
+                                       "Attribute 5": {
+                                          "Value 2": "0",
+                                          "Value 0": {
+                                             "Attribute 4": {
+                                                "Value 2": "0",
+                                                "Value 1": "0"
+                                             }
+                                          }
+                                       }
+                                    },
+                                    "Value 3": "1"
+                                 }
+                              },
+                              "Value 3": "0"
+                           }
+                        }
+                     }
+                  },
+                  "Value 3": {
+                     "Attribute 3": {
+                        "Value 1": "0",
+                        "Value 0": {
+                           "Attribute 0": {
+                              "Value 2": {
+                                 "Attribute 5": {
+                                    "Value 2": "0",
+                                    "Value 1": "1"
+                                 }
+                              },
+                              "Value 1": {
+                                 "Attribute 5": {
+                                    "Value 2": "1",
+                                    "Value 0": {
+                                       "Attribute 6": {
+                                          "Value 0": {
+                                             "Attribute 4": {
+                                                "Value 1": "1"
+                                             }
+                                          },
+                                          "Value 3": "1"
+                                       }
+                                    }
+                                 }
+                              },
+                              "Value 3": {
+                                 "Attribute 5": {
+                                    "Value 1": "0",
+                                    "Value 0": "1"
+                                 }
+                              }
+                           }
+                        }
+                     }
+                  }
+               }
+            },
+            "Value 1": {
+               "Attribute 4": {
+                  "Value 2": {
+                     "Attribute 3": {
+                        "Value 1": "1",
+                        "Value 0": "0"
+                     }
+                  },
+                  "Value 1": {
+                     "Attribute 5": {
+                        "Value 2": {
+                           "Attribute 6": {
+                              "Value 2": "1",
+                              "Value 0": {
+                                 "Attribute 0": {
+                                    "Value 1": "1",
+                                    "Value 0": "0",
+                                    "Value 3": {
+                                       "Attribute 3": {
+                                          "Value 1": "0",
+                                          "Value 0": {
+                                             "Attribute 2": {
+                                                "Value 0": "1"
+                                             }
+                                          }
+                                       }
+                                    }
+                                 }
+                              },
+                              "Value 3": "0"
+                           }
+                        },
+                        "Value 1": "1",
+                        "Value 0": {
+                           "Attribute 2": {
+                              "Value 2": "0",
+                              "Value 1": "1",
+                              "Value 0": {
+                                 "Attribute 6": {
+                                    "Value 2": "0",
+                                    "Value 0": "0",
+                                    "Value 3": "1"
+                                 }
+                              }
+                           }
+                        }
+                     }
+                  },
+                  "Value 3": "1"
+               }
+            },
+            "Value 0": {
+               "Attribute 0": {
+                  "Value 2": "0",
+                  "Value 1": {
+                     "Attribute 6": {
+                        "Value 0": "1",
+                        "Value 3": "0"
+                     }
+                  },
+                  "Value 3": "0"
+               }
+            },
+            "Value 3": {
+               "Attribute 4": {
+                  "Value 2": {
+                     "Attribute 5": {
+                        "Value 2": {
+                           "Attribute 6": {
+                              "Value 0": {
+                                 "Attribute 3": {
+                                    "Value 1": {
+                                       "Attribute 2": {
+                                          "Value 0": {
+                                             "Attribute 0": {
+                                                "Value 3": "1"
+                                             }
+                                          }
+                                       }
+                                    }
+                                 }
+                              }
+                           }
+                        },
+                        "Value 0": "0"
+                     }
+                  },
+                  "Value 1": {
+                     "Attribute 6": {
+                        "Value 2": {
+                           "Attribute 5": {
+                              "Value 2": "0",
+                              "Value 0": "1"
+                           }
+                        },
+                        "Value 0": {
+                           "Attribute 5": {
+                              "Value 2": {
+                                 "Attribute 2": {
+                                    "Value 1": {
+                                       "Attribute 3": {
+                                          "Value 1": "1",
+                                          "Value 0": "0"
+                                       }
+                                    },
+                                    "Value 0": {
+                                       "Attribute 3": {
+                                          "Value 1": {
+                                             "Attribute 0": {
+                                                "Value 2": "1",
+                                                "Value 1": "1",
+                                                "Value 0": "1",
+                                                "Value 3": "0"
+                                             }
+                                          },
+                                          "Value 0": {
+                                             "Attribute 0": {
+                                                "Value 1": "1",
+                                                "Value 3": "1"
+                                             }
+                                          },
+                                          "Value 3": "0"
+                                       }
+                                    },
+                                    "Value 3": "0"
+                                 }
+                              },
+                              "Value 0": {
+                                 "Attribute 0": {
+                                    "Value 2": {
+                                       "Attribute 2": {
+                                          "Value 2": "0",
+                                          "Value 0": {
+                                             "Attribute 3": {
+                                                "Value 1": "1",
+                                                "Value 0": "0"
+                                             }
+                                          }
+                                       }
+                                    },
+                                    "Value 1": {
+                                       "Attribute 2": {
+                                          "Value 2": {
+                                             "Attribute 3": {
+                                                "Value 1": "0",
+                                                "Value 0": "1"
+                                             }
+                                          },
+                                          "Value 1": {
+                                             "Attribute 3": {
+                                                "Value 1": "1",
+                                                "Value 0": "0"
+                                             }
+                                          },
+                                          "Value 0": {
+                                             "Attribute 3": {
+                                                "Value 1": "0",
+                                                "Value 0": "0"
+                                             }
+                                          }
+                                       }
+                                    },
+                                    "Value 0": "1",
+                                    "Value 3": {
+                                       "Attribute 3": {
+                                          "Value 1": {
+                                             "Attribute 2": {
+                                                "Value 0": "0"
+                                             }
+                                          },
+                                          "Value 0": {
+                                             "Attribute 2": {
+                                                "Value 1": "0",
+                                                "Value 0": "1",
+                                                "Value 3": "1"
+                                             }
+                                          }
+                                       }
+                                    }
+                                 }
+                              }
+                           }
+                        },
+                        "Value 3": {
+                           "Attribute 2": {
+                              "Value 1": "1",
+                              "Value 0": {
+                                 "Attribute 0": {
+                                    "Value 2": {
+                                       "Attribute 3": {
+                                          "Value 1": "1",
+                                          "Value 0": "0"
+                                       }
+                                    },
+                                    "Value 1": {
+                                       "Attribute 5": {
+                                          "Value 2": {
+                                             "Attribute 3": {
+                                                "Value 1": "1"
+                                             }
+                                          },
+                                          "Value 0": "1"
+                                       }
+                                    },
+                                    "Value 3": "1"
+                                 }
+                              },
+                              "Value 3": "0"
+                           }
+                        }
+                     }
+                  },
+                  "Value 3": "1"
+               }
+            }
+         }
+      },
+      "Value 0": {
+         "Attribute 7": {
+            "Value 2": "0",
+            "Value 3": "1"
+         }
+      },
+      "Value 3": {
+         "Attribute 4": {
+            "Value 2": "1",
+            "Value 1": {
+               "Attribute 6": {
+                  "Value 2": {
+                     "Attribute 5": {
+                        "Value 2": "1",
+                        "Value 0": "0"
+                     }
+                  },
+                  "Value 0": {
+                     "Attribute 3": {
+                        "Value 1": {
+                           "Attribute 7": {
+                              "Value 2": {
+                                 "Attribute 2": {
+                                    "Value 2": {
+                                       "Attribute 5": {
+                                          "Value 2": "0",
+                                          "Value 0": {
+                                             "Attribute 0": {
+                                                "Value 1": "0",
+                                                "Value 3": "0"
+                                             }
+                                          }
+                                       }
+                                    },
+                                    "Value 0": {
+                                       "Attribute 5": {
+                                          "Value 2": {
+                                             "Attribute 0": {
+                                                "Value 1": "0",
+                                                "Value 3": "0"
+                                             }
+                                          },
+                                          "Value 0": "0"
+                                       }
+                                    }
+                                 }
+                              },
+                              "Value 1": "1",
+                              "Value 3": {
+                                 "Attribute 0": {
+                                    "Value 2": {
+                                       "Attribute 5": {
+                                          "Value 2": "0",
+                                          "Value 0": {
+                                             "Attribute 2": {
+                                                "Value 0": "0"
+                                             }
+                                          }
+                                       }
+                                    },
+                                    "Value 1": {
+                                       "Attribute 5": {
+                                          "Value 2": {
+                                             "Attribute 2": {
+                                                "Value 0": "0"
+                                             }
+                                          }
+                                       }
+                                    },
+                                    "Value 3": "0"
+                                 }
+                              }
+                           }
+                        },
+                        "Value 0": {
+                           "Attribute 2": {
+                              "Value 2": "0",
+                              "Value 1": "0",
+                              "Value 0": {
+                                 "Attribute 0": {
+                                    "Value 2": "0",
+                                    "Value 1": {
+                                       "Attribute 5": {
+                                          "Value 2": "0",
+                                          "Value 0": {
+                                             "Attribute 7": {
+                                                "Value 2": "0"
+                                             }
+                                          }
+                                       }
+                                    },
+                                    "Value 3": "0"
+                                 }
+                              },
+                              "Value 3": "0"
+                           }
+                        },
+                        "Value 3": "0"
+                     }
+                  },
+                  "Value 3": {
+                     "Attribute 0": {
+                        "Value 2": "1",
+                        "Value 1": {
+                           "Attribute 5": {
+                              "Value 2": {
+                                 "Attribute 3": {
+                                    "Value 1": {
+                                       "Attribute 2": {
+                                          "Value 2": "0",
+                                          "Value 1": "0",
+                                          "Value 0": {
+                                             "Attribute 7": {
+                                                "Value 2": "1"
+                                             }
+                                          }
+                                       }
+                                    },
+                                    "Value 0": "0",
+                                    "Value 3": "0"
+                                 }
+                              },
+                              "Value 0": "0"
+                           }
+                        },
+                        "Value 3": {
+                           "Attribute 7": {
+                              "Value 2": {
+                                 "Attribute 5": {
+                                    "Value 2": "1",
+                                    "Value 0": {
+                                       "Attribute 3": {
+                                          "Value 1": "0",
+                                          "Value 0": "1"
+                                       }
+                                    }
+                                 }
+                              },
+                              "Value 3": "0"
+                           }
+                        }
+                     }
+                  }
+               }
+            }
+         }
+      }
+   }
+}
